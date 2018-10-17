@@ -16,8 +16,9 @@ describe("Index", () => {
     });
 
     test("Deberia return BUZZ si es divisible entre 5", () => {
-        expect(fizzbuzz(15)).toBe("BUZZ");
+        expect(fizzbuzz(10)).toBe("BUZZ");
     });
+
 
 
 });
