@@ -10,4 +10,14 @@ describe("Index", () => {
     test("deberia devolver un string cuando pase un numero", () => {
         expect(fizzbuzz(1)).toBe("1");
     });
+
+    test("Deberia return FIZZ si es divisible entre 3", () => {
+        expect(fizzbuzz(6)).toBe("FIZZ");
+    });
+
+    test("Deberia return BUZZ si es divisible entre 5", () => {
+        expect(fizzbuzz(10)).toBe("BUZZ");
+    });
+
+
 });
