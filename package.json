@@ -26,6 +26,7 @@
     "regenerator-runtime": "^0.11.1"
   },
   "jest": {
+    "testURL": "http://localhost/",
     "transform": {
       "^.+\\.js$": "babel-jest"
     }
