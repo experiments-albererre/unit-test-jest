@@ -20,7 +20,7 @@ describe("Index", () => {
     });
 
     test("Debería return FIZZBUZZ si es divisible entre 3 y 5", () => {
-        expect(fizzbuzz(15).toBe("FIZZBUZZ"));
+        expect(fizzbuzz(15)).toBe("FIZZBUZZ");
     });
 
 });
