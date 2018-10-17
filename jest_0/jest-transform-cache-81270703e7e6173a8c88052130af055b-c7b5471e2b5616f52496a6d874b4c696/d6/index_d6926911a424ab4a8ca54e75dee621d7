@@ -1,0 +1,14 @@
+853d7d9c5c4ecb0714eecb06ba8af9b3
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.fizzbuzz = void 0;
+
+var fizzbuzz = function fizzbuzz(value) {
+  return value.toString();
+};
+
+exports.fizzbuzz = fizzbuzz;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImZpenpidXp6IiwidmFsdWUiLCJ0b1N0cmluZyJdLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFPLElBQU1BLFFBQVEsR0FBRyxTQUFYQSxRQUFXLENBQUNDLEtBQUQsRUFBVztBQUMvQixTQUFPQSxLQUFLLENBQUNDLFFBQU4sRUFBUDtBQUNILENBRk0iLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgZml6emJ1enogPSAodmFsdWUpID0+IHtcbiAgICByZXR1cm4gdmFsdWUudG9TdHJpbmcoKTtcbn07Il19

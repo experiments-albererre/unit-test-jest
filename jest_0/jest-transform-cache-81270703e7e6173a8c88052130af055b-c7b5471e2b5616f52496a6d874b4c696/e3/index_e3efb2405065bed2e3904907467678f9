@@ -1,0 +1,14 @@
+5aa1ba82313f47efd5fb56e5fc2dab14
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.fizzbuzz = void 0;
+
+var fizzbuzz = function fizzbuzz(value) {
+  return value;
+};
+
+exports.fizzbuzz = fizzbuzz;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmpzIl0sIm5hbWVzIjpbImZpenpidXp6IiwidmFsdWUiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBTyxJQUFNQSxRQUFRLEdBQUcsU0FBWEEsUUFBVyxDQUFDQyxLQUFELEVBQVc7QUFDL0IsU0FBT0EsS0FBUDtBQUNILENBRk0iLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgZml6emJ1enogPSAodmFsdWUpID0+IHtcbiAgICByZXR1cm4gdmFsdWU7XG59OyJdfQ==

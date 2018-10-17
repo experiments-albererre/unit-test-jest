@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["fizzbuzz","value","toString"],"mappings":";;;;;;;AAAO,IAAMA,QAAQ,GAAG,SAAXA,QAAW,CAACC,KAAD,EAAW;AAC/B,SAAOA,KAAK,CAACC,QAAN,EAAP;AACH,CAFM","sourcesContent":["export const fizzbuzz = (value) => {\n    return value.toString();\n};"]}
